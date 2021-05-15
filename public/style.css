@@ -1,0 +1,876 @@
+/* Blue 10 */
+/* Blue 65 */
+/* Blue 15 */
+/* Blue 90 */
+/* Blue 80 */
+/* Blue 70 */
+/* Blue 60 */
+/* Blue 50 */
+/* Blue 40 */
+/* Blue 95 */
+/* Blue 30 */
+/* Blue 20 */
+/* Cloud Blue 90 */
+/* Cloud Blue 80 */
+/* Cloud Blue 70 */
+/* Cloud Blue 60 */
+/* Cloud Blue 50 */
+/* Cloud Blue 40 */
+/* Cloud Blue 95 */
+/* Cloud Blue 30 */
+/* Cloud Blue 20 */
+/* Cloud Blue 10 */
+/* Cloud Blue 65 */
+/* Cloud Blue 15 */
+/* Green 15 */
+/* Green 90 */
+/* Green 80 */
+/* Green 70 */
+/* Green 60 */
+/* Green 50 */
+/* Green 40 */
+/* Green 95 */
+/* Green 30 */
+/* Green 20 */
+/* Green 10 */
+/* Green 65 */
+/* Hot Orange 90 */
+/* Hot Orange 80 */
+/* Hot Orange 70 */
+/* Hot Orange 60 */
+/* Hot Orange 50 */
+/* Hot Orange 40 */
+/* Hot Orange 95 */
+/* Hot Orange 30 */
+/* Hot Orange 20 */
+/* Hot Orange 10 */
+/* Hot Orange 65 */
+/* Hot Orange 15 */
+/* Indigo 90 */
+/* Indigo 80 */
+/* Indigo 70 */
+/* Indigo 60 */
+/* Indigo 50 */
+/* Indigo 40 */
+/* Indigo 95 */
+/* Indigo 30 */
+/* Indigo 20 */
+/* Indigo 10 */
+/* Indigo 65 */
+/* Indigo 15 */
+/* Orange 90 */
+/* Orange 80 */
+/* Orange 70 */
+/* Orange 60 */
+/* Orange 50 */
+/* Orange 40 */
+/* Orange 95 */
+/* Orange 30 */
+/* Orange 20 */
+/* Orange 10 */
+/* Orange 65 */
+/* Orange 15 */
+/* Pink 50 */
+/* Pink 40 */
+/* Pink 95 */
+/* Pink 30 */
+/* Pink 20 */
+/* Pink 65 */
+/* Pink 10 */
+/* Pink 15 */
+/* Pink 90 */
+/* Pink 80 */
+/* Pink 70 */
+/* Pink 60 */
+/* Purple 15 */
+/* Purple 90 */
+/* Purple 80 */
+/* Purple 70 */
+/* Purple 60 */
+/* Purple 50 */
+/* Purple 40 */
+/* Purple 95 */
+/* Purple 30 */
+/* Purple 20 */
+/* Purple 10 */
+/* Purple 65 */
+/* Red 90 */
+/* Red 80 */
+/* Red 70 */
+/* Red 60 */
+/* Red 50 */
+/* Red 95 */
+/* Red 40 */
+/* Red 30 */
+/* Red 20 */
+/* Red 10 */
+/* Red 65 */
+/* Red 15 */
+/* Teal 15 */
+/* Teal 90 */
+/* Teal 80 */
+/* Teal 70 */
+/* Teal 60 */
+/* Teal 50 */
+/* Teal 40 */
+/* Teal 95 */
+/* Teal 30 */
+/* Teal 20 */
+/* Teal 10 */
+/* Teal 65 */
+/* Violet 15 */
+/* Violet 90 */
+/* Violet 80 */
+/* Violet 70 */
+/* Violet 60 */
+/* Violet 50 */
+/* Violet 40 */
+/* Violet 95 */
+/* Violet 30 */
+/* Violet 20 */
+/* Violet 10 */
+/* Violet 65 */
+/* Yellow 70 */
+/* Yellow 60 */
+/* Yellow 50 */
+/* Yellow 40 */
+/* Yellow 95 */
+/* Yellow 30 */
+/* Yellow 20 */
+/* Yellow 10 */
+/* Yellow 65 */
+/* Yellow 15 */
+/* Yellow 90 */
+/* Yellow 80 */
+/* Used as the background color for the active state on rows or items on list-like components. */
+/* Light variant of COLOR_BACKGROUND. */
+/* Used as the background color for the hover state on rows or items on list-like components. */
+/* Dark color for UI elements related to errors. Accessible with white text. */
+/* Background color for UI elements related to providing neutral information (not error, success, or warning). */
+/* Alternative background color for dark portions of the app. */
+/* Used as the background color for the new state on rows or items on list-like components. */
+/* Dark color for UI elements that have to do with success. Accessible with white text. */
+/* Used as background for loading stencils on white background. */
+/* Color for UI elements that have to do with warning. */
+/* Background color for highlighting text in search results. */
+/* Hover color for UI elements related to destructive actions. */
+/* Default background color for the whole app. */
+/* Our product brand blue, darkened to meet accessibility color contrast ratios with white text. */
+/* The color of the mask overlay that appears when you enter a modal state. */
+/* Dark variant of COLOR_BACKGROUND. */
+/* Our product brand blue. */
+/* Color for UI elements related to destructive actions. */
+/* Color for UI elements that have to do with success. */
+/* Dark Color for UI elements that have to do with warning. */
+/* Color for UI elements related to the offline state. */
+/* Used as an alternate background for loading stencils on gray backgrounds. */
+/* Light variant of COLOR_BACKGROUND_INVERSE. */
+/* Background color for UI elements related to the concept of an external user or customer. */
+/* Color for UI elements related to errors. */
+/* Second default background color for the app. */
+/* Darker color for UI elements that have to do with success. Accessible with white text. */
+/* Used as the background color for selected rows or items on list-like components. */
+/* Our product brand blue, darkened even further. */
+/* Background color for text selected with a mouse. */
+/* Active color for UI elements related to destructive actions. */
+/* Default background color for dark portions of the app (like Stage Left or tooltips). */
+/* Background color for highlighting UI elements. */
+/* Dark alternative border color for UI elements related to errors. */
+/* Our product brand blue, darkened to meet accessibility color contrast ratios with white text. */
+/* Border color for UI elements related to providing neutral information (not error, success, or warning). */
+/* Border color for UI elements that have to do with warnings. */
+/* Hover border color for UI elements that have to do with destructive actions. */
+/* Default border color for UI elements. */
+/* Dark alternative border color for UI elements that have to do with success. */
+/* Border color for UI elements that have to do with destructive actions. */
+/* Darkest separator color - used as an alternate separator color when more differentiation is desired. */
+/* Border color for UI elements related to the offline state. */
+/* Border color for UI elements that have to do with success. */
+/* Lightest separator color - used as default separator on white backgrounds. */
+/* Our product brand blue. */
+/* Used to delineate the boundary of a component that is being clicked. Specific to builders. */
+/* Border color for UI elements that have to do with errors. */
+/* Used to delineate the boundary of a component that is being hovered over. Specific to builders. */
+/* Used as the border color for the hover state on selected rows or items on list-like components. */
+/* Border color for UI elements related to the concept of an external user or customer. */
+/* Used to delineate the boundary of a selected component. Specific to builders. */
+/* Used as the border color for selected rows or items on list-like components. */
+/* Medium separator color - used as default separator on light gray backgrounds. */
+/* Border color to match UI elements using color-background-inverse. */
+/* Active border color for UI elements that have to do with destructive actions. */
+/* Alternative border color for UI elements related to errors. */
+/* Used as a separator on dark backgrounds, such as stage left navigation. */
+/* Icons in lists, record home icon, unbound input elements */
+/* Circle for global use, action icon bgd shape */
+/* Shadow for active states on interactive elements. */
+/* Shadow for drag-n-drop. */
+/* Shadow for drop down. */
+/* 0 seconds, 0 frames */
+/* 0.05 seconds, 3 frames */
+/* 0.1 seconds, 6 frames */
+/* 0.2 seconds, 12 frames */
+/* 0.4 seconds, 24 frames */
+/* 3.2 seconds, 192 frames */
+/* Default font-family for Salesforce applications */
+/* Constant typography token for font size 1 */
+/* Constant typography token for font size 2 */
+/* Constant typography token for font size 3 */
+/* Variable typography token for font size 10 */
+/* Constant typography token for font size 4 */
+/* Variable typography token for font size 11 */
+/* Constant typography token for font size 5 */
+/* Constant typography token for font size 6 */
+/* Constant typography token for font size 7 */
+/* Constant typography token for font size 8 */
+/* Variable typography token for font size 1 */
+/* Constant typography token for font size 9 */
+/* Variable typography token for font size 2 */
+/* Variable typography token for font size 3 */
+/* Constant typography token for font size 10 */
+/* Variable typography token for font size 4 */
+/* Constant typography token for font size 11 */
+/* Variable typography token for font size 5 */
+/* Variable typography token for font size 6 */
+/* Variable typography token for font size 7 */
+/* Variable typography token for font size 8 */
+/* Variable typography token for font size 9 */
+/* Use for large headings only. */
+/* Most all body copy. */
+/* Used sparingly for emphasized text within regular body copy. */
+/* Unitless line-heights for reusability */
+/* Unitless line-heights for reusability */
+/* Remove extra leading. Unitless line-heights for reusability */
+/* Variable unitless line-heights for reusability */
+/* 50% transparency of an element */
+/* 80% transparency of an element */
+/* Disabled state of BRAND_HEADER_CONTRAST_WEAK */
+/* Gray Color 11 */
+/* Transparent value of BRAND_PRIMARY at 10% */
+/* Gray Color 12 */
+/* These RGBA values need to be updated if BRAND_BACKGROUND_DARK changes, solves webkit bug */
+/* Gray Color 13 */
+/* Background color a branded app header */
+/* Active / Hover state of BRAND_LIGHT */
+/* Variant of BRAND_HEADER_CONTRAST that provides a warm color */
+/* Disabled state of BRAND_HEADER_ICON */
+/* Active / Hover state of BRAND_HEADER_CONTRAST */
+/* Primary page background color */
+/* Primary brand color */
+/* Active / Hover state of BRAND_HEADER_CONTRAST_WEAK */
+/* Active / Hover state of BRAND_CONTRAST */
+/* Variant of BRAND_HEADER_CONTRAST that provides a cool color */
+/* Variant of BRAND_HEADER that is accessible with BRAND_HEADER */
+/* Dark variant of BRAND that is accessible with light colors */
+/* Dark variant of BRAND that is accessible with white */
+/* Dark variant of BRAND_BACKGROUND_PRIMARY, used within gradient of background color */
+/* Active / Hover state of BRAND_TEXT_LINK */
+/* Gray Color 1 */
+/* Gray Color 2 */
+/* Active / Hover state of BRAND_HEADER_ICON */
+/* Gray Color 3 */
+/* Icons of BRAND_HEADER that is accessible with BRAND_HEADER */
+/* Disabled state of BRAND_A11Y */
+/* Primary text link brand color */
+/* Gray Color 4 */
+/* Gray Color 5 */
+/* Gray Color 6 */
+/* Active / Hover state of BRAND_A11Y */
+/* Gray Color 7 */
+/* Active / Hover state of BRAND_DARK */
+/* Gray Color 8 */
+/* Active / Hover state of BRAND_HEADER_CONTRAST */
+/* Active / Hover state of BRAND_HEADER_CONTRAST_COOL */
+/* Gray Color 9 */
+/* Variant of BRAND that is accessible with BRAND */
+/* Weak contrast ratio, useful for iconography */
+/* Active / Hover state of BRAND_PRIMARY */
+/* These RGBA values need to be updated if BRAND_BACKGROUND_PRIMARY changes, solves webkit bug */
+/* Variant of BRAND_HEADER that is accessible with BRAND_HEADER */
+/* Transparent value of BRAND_PRIMARY */
+/* Active / Hover state of BRAND_HEADER_CONTRAST_WARM */
+/* Transparent value of BRAND_PRIMARY at 40% */
+/* Light variant of BRAND that is accessible with dark colors */
+/* Gray Color 10 */
+/* Generic sizing token scale for UI components. */
+/* Generic sizing token scale for UI components. */
+/* Large utility icon without border. */
+/* Generic sizing token scale for UI components. */
+/* Search Results: Outer colored tile */
+/* Generic sizing token scale for UI components. */
+/* Medium utility icon without border. */
+/* Very small icon button boundary. */
+/* Small utility icon without border. */
+/* Stage left & actions: Outer colored tile */
+/* Anchor: Icon content (white shape) */
+/* Anchor: Outer colored tile */
+/* Generic sizing token scale for UI components. */
+/* Stage left & actions: Icon content (white shape) */
+/* Generic sizing token scale for UI components. */
+/* Very small icons in icon buttons. */
+/* Variable medium boundary for square icons */
+/* Icon button boundary. */
+/* Generic sizing token scale for UI components. */
+/* Anchor: avatar */
+/* Generic sizing token scale for UI components. */
+/* Search Results: Icon content (white shape) */
+/* Very very small icon button boundary. */
+/* Alternate medium tap target size */
+/* Variable spacing token for size X Large */
+/* Variable horizontal spacing token for size Small */
+/* Variable horizontal spacing token for size XX Large */
+/* Constant spacing token for size X small */
+/* Constant spacing token for size XXX small */
+/* Constant spacing token for size XX small */
+/* Variable vertical spacing token for size Large */
+/* Variable spacing token for size Large */
+/* Variable spacing token for size Medium */
+/* Variable vertical spacing token for size Medium */
+/* Variable vertical spacing token for size X Small */
+/* Constant spacing token for size Small */
+/* Variable vertical spacing token for size XXX Small */
+/* Variable spacing token for size X Small */
+/* Variable spacing token for size XXX Small */
+/* Variable horizontal spacing token for size X Large */
+/* Variable horizontal spacing token for size XX Small */
+/* Variable spacing token for size XX Large */
+/* Constant spacing token for size Medium */
+/* Variable vertical spacing token for size XX Large */
+/* Variable vertical spacing token for size Small */
+/* Variable spacing token for size Small */
+/* Constant spacing token for 0 */
+/* Variable horizontal spacing token for size Large */
+/* Constant spacing token for size X Large */
+/* Constant spacing token for size XX Large */
+/* Variable horizontal spacing token for size XXX Small */
+/* Variable horizontal spacing token for size X Small */
+/* Variable spacing token for size XX Small */
+/* Variable horizontal spacing token for size Medium */
+/* Variable vertical spacing token for size XX Small */
+/* Variable vertical spacing token for size X Large */
+/* Constant spacing token for size Large */
+/* Action label text color */
+/* Link color on dark background */
+/* Link color on dark background - active state */
+/* Action label active text color */
+/* Color for texts or icons that are related to warnings on a dark background. */
+/* Focus link text */
+/* Text color for destructive actions - hover state */
+/* Disabled link text */
+/* Body text color */
+/* Text color for destructive actions */
+/* Hover link text */
+/* Text color for success text. */
+/* Color for text that is purposefully de-emphasized to create visual hierarchy. */
+/* Input placeholder text on dark backgrounds. */
+/* Link text (508) */
+/* Color for texts that are related to warnings on a light background. */
+/* Default icon color. */
+/* Our product brand blue. */
+/* Error text for inputs and error misc */
+/* Customer text used in anchor subtitle */
+/* Text color found on any primary brand color */
+/* Active link text */
+/* Color of required field marker. */
+/* Link color on dark background - disabled state */
+/* Inverse text color for dark backgrounds */
+/* Input placeholder text. */
+/* Weak inverse text color for dark backgrounds */
+/* Link color on dark background - hover state */
+/* Text color for success text on dark backgrounds. */
+/* Text color for field labels. */
+/* Tap target size for elements that rely on width and height dimensions */
+/* Small tap target size for elements that rely on width and height dimensions */
+/* X-small tap target size for elements that rely on width and height dimensions */
+/* Xx-small tap target size for elements that rely on width and height dimensions */
+/* Tap target size for elements that rely on height or line-height */
+/* Small tap target size for elements that rely on height or line-height */
+/* Dropdown */
+/* Docked element */
+/* Notifications under modals */
+/* Spinner */
+/* Default */
+/* Deep dive */
+/* Toasts */
+/* Dialog */
+/* Popup */
+/* Modal */
+/* Stickied element */
+/* Overlay */
+/* Blue 10 */
+/* Blue 65 */
+/* Blue 15 */
+/* Blue 90 */
+/* Blue 80 */
+/* Blue 70 */
+/* Blue 60 */
+/* Blue 50 */
+/* Blue 40 */
+/* Blue 95 */
+/* Blue 30 */
+/* Blue 20 */
+/* Cloud Blue 90 */
+/* Cloud Blue 80 */
+/* Cloud Blue 70 */
+/* Cloud Blue 60 */
+/* Cloud Blue 50 */
+/* Cloud Blue 40 */
+/* Cloud Blue 95 */
+/* Cloud Blue 30 */
+/* Cloud Blue 20 */
+/* Cloud Blue 10 */
+/* Cloud Blue 65 */
+/* Cloud Blue 15 */
+/* Green 15 */
+/* Green 90 */
+/* Green 80 */
+/* Green 70 */
+/* Green 60 */
+/* Green 50 */
+/* Green 40 */
+/* Green 95 */
+/* Green 30 */
+/* Green 20 */
+/* Green 10 */
+/* Green 65 */
+/* Hot Orange 90 */
+/* Hot Orange 80 */
+/* Hot Orange 70 */
+/* Hot Orange 60 */
+/* Hot Orange 50 */
+/* Hot Orange 40 */
+/* Hot Orange 95 */
+/* Hot Orange 30 */
+/* Hot Orange 20 */
+/* Hot Orange 10 */
+/* Hot Orange 65 */
+/* Hot Orange 15 */
+/* Indigo 90 */
+/* Indigo 80 */
+/* Indigo 70 */
+/* Indigo 60 */
+/* Indigo 50 */
+/* Indigo 40 */
+/* Indigo 95 */
+/* Indigo 30 */
+/* Indigo 20 */
+/* Indigo 10 */
+/* Indigo 65 */
+/* Indigo 15 */
+/* Orange 90 */
+/* Orange 80 */
+/* Orange 70 */
+/* Orange 60 */
+/* Orange 50 */
+/* Orange 40 */
+/* Orange 95 */
+/* Orange 30 */
+/* Orange 20 */
+/* Orange 10 */
+/* Orange 65 */
+/* Orange 15 */
+/* Pink 50 */
+/* Pink 40 */
+/* Pink 95 */
+/* Pink 30 */
+/* Pink 20 */
+/* Pink 65 */
+/* Pink 10 */
+/* Pink 15 */
+/* Pink 90 */
+/* Pink 80 */
+/* Pink 70 */
+/* Pink 60 */
+/* Purple 15 */
+/* Purple 90 */
+/* Purple 80 */
+/* Purple 70 */
+/* Purple 60 */
+/* Purple 50 */
+/* Purple 40 */
+/* Purple 95 */
+/* Purple 30 */
+/* Purple 20 */
+/* Purple 10 */
+/* Purple 65 */
+/* Red 90 */
+/* Red 80 */
+/* Red 70 */
+/* Red 60 */
+/* Red 50 */
+/* Red 95 */
+/* Red 40 */
+/* Red 30 */
+/* Red 20 */
+/* Red 10 */
+/* Red 65 */
+/* Red 15 */
+/* Teal 15 */
+/* Teal 90 */
+/* Teal 80 */
+/* Teal 70 */
+/* Teal 60 */
+/* Teal 50 */
+/* Teal 40 */
+/* Teal 95 */
+/* Teal 30 */
+/* Teal 20 */
+/* Teal 10 */
+/* Teal 65 */
+/* Violet 15 */
+/* Violet 90 */
+/* Violet 80 */
+/* Violet 70 */
+/* Violet 60 */
+/* Violet 50 */
+/* Violet 40 */
+/* Violet 95 */
+/* Violet 30 */
+/* Violet 20 */
+/* Violet 10 */
+/* Violet 65 */
+/* Yellow 70 */
+/* Yellow 60 */
+/* Yellow 50 */
+/* Yellow 40 */
+/* Yellow 95 */
+/* Yellow 30 */
+/* Yellow 20 */
+/* Yellow 10 */
+/* Yellow 65 */
+/* Yellow 15 */
+/* Yellow 90 */
+/* Yellow 80 */
+/* Used as the background color for the active state on rows or items on list-like components. */
+/* Light variant of COLOR_BACKGROUND. */
+/* Used as the background color for the hover state on rows or items on list-like components. */
+/* Dark color for UI elements related to errors. Accessible with white text. */
+/* Background color for UI elements related to providing neutral information (not error, success, or warning). */
+/* Alternative background color for dark portions of the app. */
+/* Used as the background color for the new state on rows or items on list-like components. */
+/* Dark color for UI elements that have to do with success. Accessible with white text. */
+/* Used as background for loading stencils on white background. */
+/* Color for UI elements that have to do with warning. */
+/* Background color for highlighting text in search results. */
+/* Hover color for UI elements related to destructive actions. */
+/* Default background color for the whole app. */
+/* Our product brand blue, darkened to meet accessibility color contrast ratios with white text. */
+/* The color of the mask overlay that appears when you enter a modal state. */
+/* Dark variant of COLOR_BACKGROUND. */
+/* Our product brand blue. */
+/* Color for UI elements related to destructive actions. */
+/* Color for UI elements that have to do with success. */
+/* Dark Color for UI elements that have to do with warning. */
+/* Color for UI elements related to the offline state. */
+/* Used as an alternate background for loading stencils on gray backgrounds. */
+/* Light variant of COLOR_BACKGROUND_INVERSE. */
+/* Background color for UI elements related to the concept of an external user or customer. */
+/* Color for UI elements related to errors. */
+/* Second default background color for the app. */
+/* Darker color for UI elements that have to do with success. Accessible with white text. */
+/* Used as the background color for selected rows or items on list-like components. */
+/* Our product brand blue, darkened even further. */
+/* Background color for text selected with a mouse. */
+/* Active color for UI elements related to destructive actions. */
+/* Default background color for dark portions of the app (like Stage Left or tooltips). */
+/* Background color for highlighting UI elements. */
+/* Dark alternative border color for UI elements related to errors. */
+/* Our product brand blue, darkened to meet accessibility color contrast ratios with white text. */
+/* Border color for UI elements related to providing neutral information (not error, success, or warning). */
+/* Border color for UI elements that have to do with warnings. */
+/* Hover border color for UI elements that have to do with destructive actions. */
+/* Default border color for UI elements. */
+/* Dark alternative border color for UI elements that have to do with success. */
+/* Border color for UI elements that have to do with destructive actions. */
+/* Darkest separator color - used as an alternate separator color when more differentiation is desired. */
+/* Border color for UI elements related to the offline state. */
+/* Border color for UI elements that have to do with success. */
+/* Lightest separator color - used as default separator on white backgrounds. */
+/* Our product brand blue. */
+/* Used to delineate the boundary of a component that is being clicked. Specific to builders. */
+/* Border color for UI elements that have to do with errors. */
+/* Used to delineate the boundary of a component that is being hovered over. Specific to builders. */
+/* Used as the border color for the hover state on selected rows or items on list-like components. */
+/* Border color for UI elements related to the concept of an external user or customer. */
+/* Used to delineate the boundary of a selected component. Specific to builders. */
+/* Used as the border color for selected rows or items on list-like components. */
+/* Medium separator color - used as default separator on light gray backgrounds. */
+/* Border color to match UI elements using color-background-inverse. */
+/* Active border color for UI elements that have to do with destructive actions. */
+/* Alternative border color for UI elements related to errors. */
+/* Used as a separator on dark backgrounds, such as stage left navigation. */
+/* Icons in lists, record home icon, unbound input elements */
+/* Circle for global use, action icon bgd shape */
+/* Shadow for active states on interactive elements. */
+/* Shadow for drag-n-drop. */
+/* Shadow for drop down. */
+/* 0 seconds, 0 frames */
+/* 0.05 seconds, 3 frames */
+/* 0.1 seconds, 6 frames */
+/* 0.2 seconds, 12 frames */
+/* 0.4 seconds, 24 frames */
+/* 3.2 seconds, 192 frames */
+/* Default font-family for Salesforce applications */
+/* Constant typography token for font size 1 */
+/* Constant typography token for font size 2 */
+/* Constant typography token for font size 3 */
+/* Variable typography token for font size 10 */
+/* Constant typography token for font size 4 */
+/* Variable typography token for font size 11 */
+/* Constant typography token for font size 5 */
+/* Constant typography token for font size 6 */
+/* Constant typography token for font size 7 */
+/* Constant typography token for font size 8 */
+/* Variable typography token for font size 1 */
+/* Constant typography token for font size 9 */
+/* Variable typography token for font size 2 */
+/* Variable typography token for font size 3 */
+/* Constant typography token for font size 10 */
+/* Variable typography token for font size 4 */
+/* Constant typography token for font size 11 */
+/* Variable typography token for font size 5 */
+/* Variable typography token for font size 6 */
+/* Variable typography token for font size 7 */
+/* Variable typography token for font size 8 */
+/* Variable typography token for font size 9 */
+/* Use for large headings only. */
+/* Most all body copy. */
+/* Used sparingly for emphasized text within regular body copy. */
+/* Unitless line-heights for reusability */
+/* Unitless line-heights for reusability */
+/* Remove extra leading. Unitless line-heights for reusability */
+/* Variable unitless line-heights for reusability */
+/* 50% transparency of an element */
+/* 80% transparency of an element */
+/* Disabled state of BRAND_HEADER_CONTRAST_WEAK */
+/* Gray Color 11 */
+/* Transparent value of BRAND_PRIMARY at 10% */
+/* Gray Color 12 */
+/* These RGBA values need to be updated if BRAND_BACKGROUND_DARK changes, solves webkit bug */
+/* Gray Color 13 */
+/* Background color a branded app header */
+/* Active / Hover state of BRAND_LIGHT */
+/* Variant of BRAND_HEADER_CONTRAST that provides a warm color */
+/* Disabled state of BRAND_HEADER_ICON */
+/* Active / Hover state of BRAND_HEADER_CONTRAST */
+/* Primary page background color */
+/* Primary brand color */
+/* Active / Hover state of BRAND_HEADER_CONTRAST_WEAK */
+/* Active / Hover state of BRAND_CONTRAST */
+/* Variant of BRAND_HEADER_CONTRAST that provides a cool color */
+/* Variant of BRAND_HEADER that is accessible with BRAND_HEADER */
+/* Dark variant of BRAND that is accessible with light colors */
+/* Dark variant of BRAND that is accessible with white */
+/* Dark variant of BRAND_BACKGROUND_PRIMARY, used within gradient of background color */
+/* Active / Hover state of BRAND_TEXT_LINK */
+/* Gray Color 1 */
+/* Gray Color 2 */
+/* Active / Hover state of BRAND_HEADER_ICON */
+/* Gray Color 3 */
+/* Icons of BRAND_HEADER that is accessible with BRAND_HEADER */
+/* Disabled state of BRAND_A11Y */
+/* Primary text link brand color */
+/* Gray Color 4 */
+/* Gray Color 5 */
+/* Gray Color 6 */
+/* Active / Hover state of BRAND_A11Y */
+/* Gray Color 7 */
+/* Active / Hover state of BRAND_DARK */
+/* Gray Color 8 */
+/* Active / Hover state of BRAND_HEADER_CONTRAST */
+/* Active / Hover state of BRAND_HEADER_CONTRAST_COOL */
+/* Gray Color 9 */
+/* Variant of BRAND that is accessible with BRAND */
+/* Weak contrast ratio, useful for iconography */
+/* Active / Hover state of BRAND_PRIMARY */
+/* These RGBA values need to be updated if BRAND_BACKGROUND_PRIMARY changes, solves webkit bug */
+/* Variant of BRAND_HEADER that is accessible with BRAND_HEADER */
+/* Transparent value of BRAND_PRIMARY */
+/* Active / Hover state of BRAND_HEADER_CONTRAST_WARM */
+/* Transparent value of BRAND_PRIMARY at 40% */
+/* Light variant of BRAND that is accessible with dark colors */
+/* Gray Color 10 */
+/* Generic sizing token scale for UI components. */
+/* Generic sizing token scale for UI components. */
+/* Large utility icon without border. */
+/* Generic sizing token scale for UI components. */
+/* Search Results: Outer colored tile */
+/* Generic sizing token scale for UI components. */
+/* Medium utility icon without border. */
+/* Very small icon button boundary. */
+/* Small utility icon without border. */
+/* Stage left & actions: Outer colored tile */
+/* Anchor: Icon content (white shape) */
+/* Anchor: Outer colored tile */
+/* Generic sizing token scale for UI components. */
+/* Stage left & actions: Icon content (white shape) */
+/* Generic sizing token scale for UI components. */
+/* Very small icons in icon buttons. */
+/* Variable medium boundary for square icons */
+/* Icon button boundary. */
+/* Generic sizing token scale for UI components. */
+/* Anchor: avatar */
+/* Generic sizing token scale for UI components. */
+/* Search Results: Icon content (white shape) */
+/* Very very small icon button boundary. */
+/* Alternate medium tap target size */
+/* Variable spacing token for size X Large */
+/* Variable horizontal spacing token for size Small */
+/* Variable horizontal spacing token for size XX Large */
+/* Constant spacing token for size X small */
+/* Constant spacing token for size XXX small */
+/* Constant spacing token for size XX small */
+/* Variable vertical spacing token for size Large */
+/* Variable spacing token for size Large */
+/* Variable spacing token for size Medium */
+/* Variable vertical spacing token for size Medium */
+/* Variable vertical spacing token for size X Small */
+/* Constant spacing token for size Small */
+/* Variable vertical spacing token for size XXX Small */
+/* Variable spacing token for size X Small */
+/* Variable spacing token for size XXX Small */
+/* Variable horizontal spacing token for size X Large */
+/* Variable horizontal spacing token for size XX Small */
+/* Variable spacing token for size XX Large */
+/* Constant spacing token for size Medium */
+/* Variable vertical spacing token for size XX Large */
+/* Variable vertical spacing token for size Small */
+/* Variable spacing token for size Small */
+/* Constant spacing token for 0 */
+/* Variable horizontal spacing token for size Large */
+/* Constant spacing token for size X Large */
+/* Constant spacing token for size XX Large */
+/* Variable horizontal spacing token for size XXX Small */
+/* Variable horizontal spacing token for size X Small */
+/* Variable spacing token for size XX Small */
+/* Variable horizontal spacing token for size Medium */
+/* Variable vertical spacing token for size XX Small */
+/* Variable vertical spacing token for size X Large */
+/* Constant spacing token for size Large */
+/* Action label text color */
+/* Link color on dark background */
+/* Link color on dark background - active state */
+/* Action label active text color */
+/* Color for texts or icons that are related to warnings on a dark background. */
+/* Focus link text */
+/* Text color for destructive actions - hover state */
+/* Disabled link text */
+/* Body text color */
+/* Text color for destructive actions */
+/* Hover link text */
+/* Text color for success text. */
+/* Color for text that is purposefully de-emphasized to create visual hierarchy. */
+/* Input placeholder text on dark backgrounds. */
+/* Link text (508) */
+/* Color for texts that are related to warnings on a light background. */
+/* Default icon color. */
+/* Our product brand blue. */
+/* Error text for inputs and error misc */
+/* Customer text used in anchor subtitle */
+/* Text color found on any primary brand color */
+/* Active link text */
+/* Color of required field marker. */
+/* Link color on dark background - disabled state */
+/* Inverse text color for dark backgrounds */
+/* Input placeholder text. */
+/* Weak inverse text color for dark backgrounds */
+/* Link color on dark background - hover state */
+/* Text color for success text on dark backgrounds. */
+/* Text color for field labels. */
+/* Tap target size for elements that rely on width and height dimensions */
+/* Small tap target size for elements that rely on width and height dimensions */
+/* X-small tap target size for elements that rely on width and height dimensions */
+/* Xx-small tap target size for elements that rely on width and height dimensions */
+/* Tap target size for elements that rely on height or line-height */
+/* Small tap target size for elements that rely on height or line-height */
+/* Dropdown */
+/* Docked element */
+/* Notifications under modals */
+/* Spinner */
+/* Default */
+/* Deep dive */
+/* Toasts */
+/* Dialog */
+/* Popup */
+/* Modal */
+/* Stickied element */
+/* Overlay */
+/* The color of the mask overlay that appears when you enter a modal state. */
+/* Winter 18 token, this has been deprecated. Please use BRAND_BACKGROUND_DARK_TRANSPARENT instead. These RGBA values need to be updated if BRAND_BAND_COLOR_BACKGROUND_PRIMARY changes, solves webkit bug */
+/* Used when further differentiation is needed because colorBackground and colorBackgroundAlt are both being used in close proximity. */
+/* Hover color for utility bar item. */
+/* Use COLOR_BACKGROUND_PAGE_HEADER instead. */
+/* Winter 18 token, this has been deprecated. Please use BRAND_BACKGROUND_PRIMARY_DARK instead. */
+/* Winter 18 token, this has been deprecated. Please use BRAND_BACKGROUND_PRIMARY_TRANSPARENT instead. These RGBA values need to be updated if BRAND_BAND_COLOR_BACKGROUND_PRIMARY changes, solves webkit bug */
+/* Secondary top bar background color (child browser, file preview, etc.) */
+/* Used as the default background color for temporary dialog elements, such as the progress spinner background. */
+/* Used as gray background when more contrast is desired. */
+/* Background color for payloads in the feed. */
+/* Winter 18 token, this has been deprecated. Please use BRAND_BACKGROUND_PRIMARY instead. */
+/* Used as gray background in conjunction with Shade when more contrast is desired. */
+/* Background for utility icons that live in the action bar on mobile. */
+/* Winter 18 token, this has been deprecated. Please use BRAND_BACKGROUND_PRIMARY instead. */
+/* Our product brand blue. */
+/* Hover stroke color for our product brand blue. */
+/* Active stroke color for our product brand blue. */
+/* Disabled stroke color. */
+/* Stroke color for our global header buttons. */
+/* Hard dropshadow found on general UI elements such as containers */
+/* Soft dropshadow found on general UI elements such as containers */
+/* Custom glow for focus states on UI elements with explicit containers on dark or vibrantly colored backgrounds. */
+/* Custom glow for focus states on UI link elements with explicit containers on dark or vibrantly colored backgrounds. */
+/* Tertiary body text color */
+/* Active state on a standalone link on a dark background. */
+/* Icon color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over. */
+/* Color for text on toast messages. */
+/* Hover state on a standalone link on a dark background. */
+/* Modal header button text color */
+/* Color for interactive utility icons */
+/* Secondary body text color */
+/* Text in stage left navigation. */
+/* Background color for a new notification list item. */
+/* Disabled input */
+/* Hovered toggle background color. */
+/* Toggle background color. */
+/* Default Page Header background color */
+/* Disabled checkboxes */
+/* Color of the spinner dot. */
+/* The color of the mask overlay that provides user feedback on interaction. */
+/* The background color of an internal scrollbar. */
+/* Disabled toggle background color. */
+/* Background color for toast messaging. */
+/* Background color of comment posts in the feed. */
+/* Color of mask overlay that sits on top of an image when text is present. */
+/* The background color of an internal scrollbar track. */
+/* Border color on disabled form elements. */
+/* Border color on notification reminders. */
+/* Border color for default secondary button */
+/* Border color on form elements. */
+/* Hard dropshadow on page header */
+/* Hard dropshadow found on outer cards */
+/* Use for active tab. */
+/* Use for active tab. */
+/* Icon color on dark background */
+/* Input icon */
+/* Icon color on dark background - active state */
+/* Color for disabled text in a tab group. */
+/* Input disabled text */
+/* Default icon color - disabled state */
+/* Text color for default secondary button - disabled state */
+/* Color for disabled toggles */
+/* Color for default text in a tab group. */
+/* Icon color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over. */
+/* Text color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over. */
+/* Text color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over. */
+/* Icon color on dark background - hover state */
+/* Use ACTION_NEW_NOTEBOOK instead. */
+body {
+  background-color: #032d60 !important; }
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */

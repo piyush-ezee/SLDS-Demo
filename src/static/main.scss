@@ -1,0 +1,15 @@
+@import "../../node_modules/@salesforce-ux/design-system/design-tokens/dist/primitive.default.scss";
+@import "../../node_modules/@salesforce-ux/design-system/design-tokens/dist/theme-one-salesforce.default.scss";
+@import "../../node_modules/@salesforce-ux/design-system/design-tokens/dist/bg-actions.default.scss";
+
+body {
+  background-color: $color-background-alt-inverse !important;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: $color-text-brand-primary;
+}
